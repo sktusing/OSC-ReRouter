@@ -7,12 +7,12 @@ It is dependent on py-osc.
 
 
 Run the script and it'll ask for:
-RX IP Address
-RX Port
-TX IP Address
-TX Port
-The message to listen for (* is wildcard)
-Then the new message prefix
+- RX IP Address
+- RX Port
+- TX IP Address
+- TX Port
+- The message to listen for (* is wildcard)
+- The new message prefix
 
 It'll print out any message it transmits.
 
